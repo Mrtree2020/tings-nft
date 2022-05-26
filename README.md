@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-&#x20;docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+ver, to others, even folks who are trying your product after r本文本文的意思eading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
